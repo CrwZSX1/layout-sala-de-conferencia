@@ -1,0 +1,1 @@
+This set of code generates the layout of a room or auditorium based on the number of seats per row and column. Additionally, it includes a feature that automatically disables any seat that exceeds three interventions.
